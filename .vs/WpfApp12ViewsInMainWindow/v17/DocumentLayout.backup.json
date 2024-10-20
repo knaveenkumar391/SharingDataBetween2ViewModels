@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\views\\leftpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\views\\leftpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\views\\rightpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\views\\rightpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\viewmodels\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\viewmodels\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\viewmodels\\rightpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\viewmodels\\rightpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\viewmodels\\leftpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\viewmodels\\leftpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\views\\rightpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\views\\rightpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\interfaces\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\interfaces\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|f:\\wpf apps\\wpfapp12viewsinmainwindow\\wpfapp12viewsinmainwindow\\interfaces\\ipublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F44C6-F93E-4E27-9D81-9D2EFA65A3AE}|WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow.csproj|solutionrelative:wpfapp12viewsinmainwindow\\interfaces\\ipublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:40:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\ViewModels\\Singleton.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\ViewModels\\Singleton.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\ViewModels\\Singleton.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\ViewModels\\Singleton.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAxwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:21:24.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeftPageVM.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\ViewModels\\LeftPageVM.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\ViewModels\\LeftPageVM.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\ViewModels\\LeftPageVM.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\ViewModels\\LeftPageVM.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:09:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeftPage.xaml.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Views\\LeftPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\Views\\LeftPage.xaml.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Views\\LeftPage.xaml.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\Views\\LeftPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:19:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RightPageVM.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\ViewModels\\RightPageVM.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\ViewModels\\RightPageVM.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\ViewModels\\RightPageVM.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\ViewModels\\RightPageVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:15:27.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RightPage.xaml.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:23:18.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RightPage.xaml",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\Views\\RightPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T13:41:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Interfaces\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\Interfaces\\ISubscriber.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Interfaces\\ISubscriber.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\Interfaces\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:10:17.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPublisher.cs",
+              "DocumentMoniker": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Interfaces\\IPublisher.cs",
+              "RelativeDocumentMoniker": "WpfApp12ViewsInMainWindow\\Interfaces\\IPublisher.cs",
+              "ToolTip": "F:\\WPF Apps\\WpfApp12ViewsInMainWindow\\WpfApp12ViewsInMainWindow\\Interfaces\\IPublisher.cs",
+              "RelativeToolTip": "WpfApp12ViewsInMainWindow\\Interfaces\\IPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:10:13.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
